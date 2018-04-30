@@ -1,35 +1,45 @@
 WW1 War of mass violence
 
 violence	: 	manoeuvre warfare failed
-			:	turned into attrition warfare
-			:	4 years
+		:	turned into attrition warfare
+		:	4 years
 			
 trenches	:	industrial war
-			:	new weapons - mass quantities
-			: 	huge number of deaths
+		:	new weapons - mass quantities
+		: 	huge number of deaths
 			
 weapons		:	shells
-			: 	machine guns
-			:	gas 1915
-				|	Belgium
-			:	tanks	
-				|	Battle of the Somme 1916
-			:	aircrafts
-				| 1917 onwards
+		: 	machine guns
+		:	gas 1915
+			|	Belgium
+		:	tanks	
+			|	Battle of the Somme 1916
+		:	aircrafts
+			| 1917 onwards
 				
 hell		:	terrible living conditions
-			:	bombs
-			: 	violence
-			:	shell-shocked
+		:	bombs
+		: 	violence
+		:	shell-shocked
 			
 civilians	:	mass killings
-			: 	forced labour
+		: 	forced labour
 				| 1.3 armenians died 1915 to 1916
 				
 total war	:	everyone
-			:	 women at the home front
-			: 	industries
+		:	 women at the home front
+		: 	industries
 			
 figures		:	10 million combattants died
-			:	7 million civilians died
-			:	unprecedented
+		:	7 million civilians died
+		:	unprecedented
+
+document 	:	gueule cassee (image)
+		:	from french
+		:	came from the trenches
+		:	trenches protected most of the body BUT not the head
+		:	that little exposing part of the body -> GUEULE CASSEE
+		:	steel helmets -> protection from CERTAIN death
+		:	still possible deformation
+
+life after	:	gueule cassee didn't get benefits of veterans (but that changed)
