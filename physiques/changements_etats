@@ -1,0 +1,15 @@
+solide	:	compact
+	:	ordonne
+
+liquide	:	compact
+	:	desordonne
+
+gazeux	:	disperse
+	:	desordonne
+
+changements d'etat	:	vaporisation (L->G)
+	    		:	liquefaction (G->L)
+			:	solidification (L->S)
+			:	fusion (S->L)
+			: 	condensation (G->S)
+			:	sublimation (S->G)

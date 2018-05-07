@@ -1,0 +1,11 @@
+mouvement	:	vitesse
+		:	trajectoire
+
+trajectoire 	:	rectiligne
+		:	circulaire
+		:	curviligne
+
+vitesse		:	accelere
+		:	decelere
+		:	uniforme
+

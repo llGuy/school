@@ -1,0 +1,13 @@
+diagramme obj-interactions:	interaction de contact (ligne non-graduee)
+	  		  :	interaction a distance (ligne graduee)
+
+les forces		  :	point d'application
+    			  :	direction
+			  :	sens
+			  :	valeur
+
+dynamometre 		  :	mesurer les forces
+			  :	se mesure avec les newtons (N)
+
+F = G*(M1 * M2) / dist ^ 2
+P = masse * (N/kg) 
